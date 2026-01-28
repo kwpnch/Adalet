@@ -159,8 +159,9 @@ Redakte edilmiş belgeler.
 ### F. Tapu Usulsüzlüğü
 > Betonarme binanın tapuda "Kargir" olarak gösterilmesi ve Tapu Kadastro Müdürlüklerinin bu usulsüzlüğü göz ardı etmesi.
 
-- [Tapu Kaydı (Kargir Apartman)](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/Tapu.pdf)
 - [Tapu Usulsüzlüğü Şikayet Dilekçesi](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/TapuUsulsuzlugu.pdf)
+- [Tapu Kaydı (Kargir Apartman)](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/Tapu.pdf)
+- [Binadaki Kolon ve Kirişlerin Fotoğrafları (Betonarme Apartman)](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/BAptKolonVeKirisleri.pdf)
 - [Ankara Kadastro Müdürlüğünün CİMER Başvurusuna Cevabı](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/CIMER_AnkaraKadastro.pdf)
 - [Çankaya Tapu Müdürlüğünün CİMER Başvurusuna Cevabı](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/CIMER_CankayaTapu.pdf)
 - [Tapu Usulsüzlüğü Beyan Dilekçesi](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/KacakYapiOrtbasUsulsuzAnaTasinmazNiteligi.pdf)

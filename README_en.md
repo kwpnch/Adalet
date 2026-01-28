@@ -159,8 +159,9 @@ Redacted documents.
 ### F. Title Deed Irregularity
 > Showing reinforced concrete building as "Masonry" in title deed and Land Registry Directorates ignoring this irregularity.
 
-- [Title Deed (Masonry Apartment)](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/Tapu.pdf)
 - [Complaint Petition Regarding Title Deed Irregularity](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/TapuUsulsuzlugu.pdf)
+- [Title Deed (Masonry Apartment)](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/Tapu.pdf)
+- [Photographs of Columns and Beams in Building (Reinforced Concrete Apartment)](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/BAptKolonVeKirisleri.pdf)
 - [Ankara Cadastre Directorate's Response to CİMER Application](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/CIMER_AnkaraKadastro.pdf)
 - [Çankaya Title Deed Directorate's Response to CİMER Application](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/CIMER_CankayaTapu.pdf)
 - [Petition regarding Title Deed Irregularity](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/KacakYapiOrtbasUsulsuzAnaTasinmazNiteligi.pdf)

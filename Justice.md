@@ -14,7 +14,7 @@ On yıldan uzun bir süre boyunca apartman yaşamını çekilmez hale getirdiler
 
 - **Terasa delik açıp yağmur suyunu pis su borusuna verdiler:** 8 sene boyunca her sağanak yağmurda birinci kattaki dairemi su bastı.
 
-- **Betonarme apartmanı tapuda [Kargir](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/Tapu.pdf) olarak kaydettirmişler:** Binada kolon ve kirişler var. 60 yıldır avantaj sağlıyorlar.
+- **Betonarme apartmanı tapuda [Kargir](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/Tapu.pdf) olarak kaydettirmişler:** [Binada kolon ve kirişler var](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/BAptKolonVeKirisleri.pdf). 60 yıldır avantaj sağlıyorlar.
 
 - **Cinsel taciz, sarkıntılık ve fuhuş iddiaları var:** Kapıcı dairesinde bedava oturan şahıs rahat da durmadı; genç kızlara ve hatta trans bireylere taciz ve sarkıntılık olayları var. Kapıcı dairesine polis defalarca baskın yaptı. Sivil polisler kapıcı dairesinde "yabancı uyruklu kadın gören var mı" diye soruşturdu. Geleceği zaman ablamı pencerelerde bekliyordum.
 

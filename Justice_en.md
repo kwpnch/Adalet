@@ -14,7 +14,7 @@ For over a decade, they made apartment life unbearable. Even the summary is as l
 
 - **They drilled a hole in the terrace and directed rainwater into the sewage pipe:** For 8 years, my apartment on the first floor was flooded during every heavy rain.
 
-- **They had the reinforced concrete apartment registered as [Masonry](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/Tapu.pdf) in the title deed:** There are columns and beams in the building. They have been gaining advantage for 60 years.
+- **They had the reinforced concrete apartment registered as [Masonry](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/Tapu.pdf) in the title deed:** [There are columns and beams in the building](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/BAptKolonVeKirisleri.pdf). They have been gaining advantage for 60 years.
 
 - **There are allegations of sexual harassment, molestation, and prostitution:** The individual living in the janitor's apartment for free did not stay still; there are incidents of harassment and molestation against young girls and even trans individuals. The police raided the janitor's apartment many times. Plainclothes police officers investigated the janitor's apartment asking "has anyone seen foreign national women". I used to wait for my sister at the windows when she was coming.
 
