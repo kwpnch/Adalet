@@ -44,13 +44,13 @@ The above was just the beginning. Now a legal struggle that would last for years
 
 A few months after I went to my new residence address, I saw that two lawsuits were filed:
 
-- **Insult case:** In fact, about 8 months after I complained about this act which had the purpose of blackmail with the insult "Pervert", an insult lawsuit was filed. Since the court saw this as a simple, isolated insult, despite all my declaration petitions, it decided on HAGB (Deferral of the Announcement of the Verdict) with simple procedure. Although it was completely in my favor, [I objected to the decision](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/HakaretKararinaI%CC%87tiraz_TevhitTalebi.pdf). The court accepted it and the case file was given to another court. The new court, simplifying the event even further, accepted it as a crime qualification that can be closed with prepayment and is about to drop the case. Besides, the Prosecutor's Office had given a Decision of Non-Prosecution (KYOK) to my illegal structure report in the same complaint.
+- **Insult case:** In fact, about 8 months after I complained about this act which had the purpose of blackmail with the insult "Pervert", an insult lawsuit was filed. Since the court saw this as a simple, isolated insult, despite all my declaration petitions, it decided on HAGB (Deferral of the Announcement of the Verdict) with simple procedure. Although it was completely in my favor, [I objected to the decision](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/HakaretKararinaI%CC%87tiraz_TevhitTalebi.pdf). The court accepted it and the case file was given to another court. The new court, simplifying the event even further, accepted it as a crime qualification that can be closed with prepayment and dropped the case. I applied for an appeal. Besides, the Prosecutor's Office had given a Decision of Non-Prosecution (KYOK) to my illegal structure report in the same complaint.
 
 - **Assault case:** The defendants used the man in the janitor's apartment as a false witness twice and tried to show me as the aggressor. The first one was rejected by the Criminal Judgeship of Peace on Duty. In the second one, the judge looking at the assault case listened to the false witness. But the court still sees this assault act where they broke my jaw as an isolated ordinary assault; therefore, a lawsuit continues as if it has nothing to do with the events above.
 
 #### My criminal chain complaints
 
-When I saw that the insult and assault cases were being tried as isolated events independent of this crime chain that has been going on for decades and that my lawyer also supported this, I realized that it was up to me. Otherwise, there would be no difference from insult and assault cases between people arguing and fighting in traffic.
+When I saw that the insult and assault cases were being tried as isolated events independent of this crime chain that has been going on for decades, I realized that it was up to me. Otherwise, there would be no difference from insult and assault cases between people arguing and fighting in traffic.
 
 Therefore, I started to complain about this entire crime chain to judicial and administrative authorities:
 
@@ -64,7 +64,15 @@ Therefore, I started to complain about this entire crime chain to judicial and a
     
     Upon this, [I filed a new criminal complaint](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbas.pdf) to the Prosecutor's Office regarding the cover-up of the illegal structure against the Municipality and other suspects. The Prosecutor's Office Civil Servant Crimes Bureau wrote a letter to the accused Municipality again and asked about the illegal structure. In its reply, the Municipality used the expression "illegal structure" twice and gave a cover-up answer again saying "the entrance of the illegal structure was closed and there was nothing left to do". The Prosecutor's Office Bureau, which respected this, also gave a [Decision of Non-Prosecution](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/%282%29_Takipsizlik_Karari.pdf) regarding my new complaint.
     
-    Since this situation created an absurd result as if these individuals had been protecting the 60-year-old 100m2 reinforced concrete illegal structure on their own for 60 years and the contradictory cover-up answers given by the Municipality did not exist, of course [I objected at the Criminal Judgeship of Peace](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasKYOKItiraz.pdf). We are waiting for the result.
+    Since this situation created an absurd result as if these individuals had been protecting the 60-year-old 100m2 reinforced concrete illegal structure on their own for 60 years and the contradictory cover-up answers given by the Municipality did not exist, of course [I objected at the Criminal Judgeship of Peace](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasKYOKItiraz.pdf).
+    
+    While waiting for the result of our complaints and objection, on February 11, 2026, the Municipality, contrary to the previous 3 "suitable for project" answers, [notified the apartment and warned that a 68m2 illegal structure exists and it must be demolished within 1 month](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiTebligati.pdf). That is, the illegal structure will be demolished on March 14, 2026, and all evidence will be forever eliminated.
+    
+    Meanwhile, the `4.30m × 15.85m = 68.15m2` area calculation in the Municipality's report is impossible. Because the front garden is not a rectangle, it is a trapezoid. The Municipality, which we entrusted with Urbanization and Planning works and which should make calculations down to the centimeter, continued its carelessness even in the document where it admitted the illegal structure.
+    
+    The next day, on February 12, 2026, the Municipality [declared the apartment a risky structure](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/RiskliYapiTebligati.jpeg). That is, the risky structure decision will become final on the deadline for the demolition of the illegal structure, and within at most 2-3 months following, the building will be demolished and all evidence will be forever eliminated.
+    
+    As can be seen, these organized and synchronized moves by the Municipality are just a new link in the cover-up attempt.
 
 - **Janitor's apartment:** I sent a [13-page complaint petition](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciDairesi.pdf) to the Prosecutor's Office, reporting very serious crimes consisting of 11 evidences and 15 witnesses:
 
@@ -76,7 +84,9 @@ Therefore, I started to complain about this entire crime chain to judicial and a
     
     To this carefully prepared petition, the Prosecutor's Office Forgery and Fraud Bureau gave a [Decision of Non-Prosecution](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/%282%29_Takipsizlik_Karari.pdf) within just a few days. Actually, not much was written in the Non-Prosecution decision, because 6.5 pages of the 7-page decision text was a copy-paste version of my petition with broken formatting. Other parts of the decision text were full of errors and finally, the Prosecutor's Office Bureau claimed that all these issues I filed a criminal complaint about were "legal disputes". In other words, everything I reported, including sexual harassment incidents, was a legal dispute!
     
-    Of course, [I objected to this dismissive Non-Prosecution decision at the Criminal Judgeship of Peace](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciDairesiKYOKItiraz.pdf). Before objecting, I made the complaints to ASKİ, TKGM, and SGK myself, which the Prosecutor's Office should have actually done. We are waiting for the result of my objection.
+    Of course, [I objected to this dismissive Non-Prosecution decision at the Criminal Judgeship of Peace](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciDairesiKYOKItiraz.pdf). Before objecting, I made the complaints to ASKİ, TKGM, and SGK myself, which the Prosecutor's Office should have actually done. But, [the Criminal Judgeship of Peace rejected my objection](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciKYOKItiraz_Takipsizlik_Kararina_Itirazin_Reddi.pdf).
+
+    But, I did not appeal this rejection decision at the Constitutional Court, because I had already filed separate complaints for illegal drainage, title deed irregularity and SGK fraud; the investigations are ongoing.
 
 - **Illegal drainage:** I complained twice to the Ankara Metropolitan Municipality ASKİ via CİMER about the illegal drainage system on the terrace that caused my apartment to flood. [To the first one](https://github.com/kwpnch/Adalet/raw/main/YasaDisiDrenaj/ASKISikayet_1.pdf), they gave an irrelevant answer about the sewage problem of an apartment elsewhere in Ankara. [To my second application](https://github.com/kwpnch/Adalet/raw/main/YasaDisiDrenaj/ASKISikayet_2.pdf) for correction, I received an absurd answer that a process was required in the installation of my apartment on the first floor regarding the hole in the terrace. In other words, this time too, ASKİ ignored the hole in the terrace and the illegal drainage and covered it up.
 
@@ -88,7 +98,7 @@ Therefore, I started to complain about this entire crime chain to judicial and a
 
 - **Protection order requests:** I don't even remember how many times I requested a protection order. [Our first protection order request was rejected](https://github.com/kwpnch/Adalet/raw/main/Darp/KorumaTalebiReddedildi.pdf). I don't know what happened or will happen to the others.
 
-- **Injunction order requests:** After these complaints of mine, to destroy the evidence, they tried to get the apartment demolished under the pretext of urban transformation, which had been renovated just 2 years ago. [Cores were taken](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/DepremTeknikInceleme.jpeg) from the columns. For this reason, [I requested an injunction order](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasSCHEkBeyan.pdf) regarding the apartment from the Prosecutor's Office and the Courts until the investigations were completed. To my first injunction request, the Prosecutor's Office Civil Servant Crimes Bureau given a [Decision of Non-Prosecution](https://github.com/kwpnch/Adalet/raw/main/TedbirTalebi/%282%29_Takipsizlik_Karari.pdf), but sent my request to the separated investigation file regarding other suspects with a writ. We are waiting for the result.
+- **Injunction order requests:** After these complaints of mine, to destroy the evidence, they tried to get the apartment demolished under the pretext of urban transformation, which had been renovated just 2 years ago. [Cores were taken](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/DepremTeknikInceleme.jpeg) from the columns. For this reason, [I requested an injunction order](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasSCHEkBeyan.pdf) regarding the apartment from the Prosecutor's Office and the Courts until the investigations were completed. To my first injunction request, the Prosecutor's Office Civil Servant Crimes Bureau issued a [Decision of Non-Prosecution](https://github.com/kwpnch/Adalet/raw/main/TedbirTalebi/%282%29_Takipsizlik_Karari.pdf), but sent my request to the separated investigation file regarding other suspects with a writ. While waiting for the results of my requests, the [Municipality declared the apartment a risky structure](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/RiskliYapiTebligati.jpeg).
 
 ### Against Whom Am I Struggling
 
@@ -277,11 +287,11 @@ After hiring a lawyer, I left Ankara.
 
 #### December 2024: Insult blackmail and illegal structure complaints
 
-The lawyer I hired did nothing for 6 months. Therefore, rushing a bit, I returned to Ankara at the beginning of December. I rushed because the time to complain about the "Pervert" blackmail was about to expire.
+My lawyer had not filed the lawsuits yet. Therefore, rushing a bit, I returned to Ankara at the beginning of December because the time to complain about the "Pervert" blackmail was about to expire.
 
 In Ankara, first, I received the Decision of Non-Prosecution for my phone threat complaint from the Prosecutor's Office.
 
-Then, although my lawyer was supposed to complain, since he didn't do anything about this either, I went to the Prosecutor's Office myself and [complained about the "Pervert" insult and blackmail on June 14](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/TehditHakaretSikayet.jpg). The prosecutor asked why this individual insulted me like this; I mentioned the illegal structure. Therefore, they took my complaint as both "Pervert" insult and illegal structure. So, two investigations were conducted regarding my complaint. Indeed, months later an insult lawsuit was filed, but a Non-Prosecution decision was given regarding the illegal structure, I will mention it again below.
+Then, I went to the Prosecutor's Office and [complained about the "Pervert" insult and blackmail on June 14](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/TehditHakaretSikayet.jpg). The prosecutor asked why this individual insulted me like this; I mentioned the illegal structure. Therefore, they took my complaint as both "Pervert" insult and illegal structure. So, two investigations were conducted regarding my complaint. Indeed, months later an insult lawsuit was filed, but a Non-Prosecution decision was given regarding the illegal structure, I will mention it again below.
 
 Also, on December 2, I sent a complaint petition regarding the illegal structure to the Ministry of Environment, Urbanization and Climate Change via CİMER. They also wrote to Çankaya Municipality like the Prosecutor's Office and closed the subject months later by respecting the cover-up answer coming from the Municipality.
 
@@ -401,9 +411,7 @@ My mother also couldn't even go out in the past 3 months. She couldn't go to the
 
 During this time, I completely packed the house, put everything in cardboard boxes. When I finished packing, we were in a condition to move the next day.
 
-You can't know what kind of psychology all of this creates.
-
-Therefore, a few days after the MRI report came out and I talked to the orthodontics professor, on March 15, around 3-4 am at night, I filled the car with everything I calculated I could take to the summer house and fit (I prepared for weeks by measuring and calculating and dreaming how much I could fill the car, luckily I calculated correctly, because I could fit everything I prepared into the car). Around 7 o'clock I had completely filled the car. I carefully closed the house and set off for the summer house with my mother.
+A few days after the MRI report came out and I talked to the orthodontics professor, on March 15, around 3-4 am at night, I filled the car with everything I calculated I could take to the summer house and fit (I prepared for weeks by measuring and calculating and dreaming how much I could fill the car, luckily I calculated correctly, because I could fit everything I prepared into the car). Around 7 o'clock I had completely filled the car. I carefully closed the house and set off for the summer house with my mother.
 
 We arrived at the summer house in the afternoon. That's when I could relax, because I wasn't living with the threat of those below anymore. For example, I could go out and shop whenever I wanted.
 
@@ -421,11 +429,11 @@ The assault lawsuit was also filed at the beginning of August.
 
 I wasn't using UYAP until that time; I started using UYAP after seeing the lawsuits on e-government.
 
-I saw that our files with my mother were combined in the assault case, but the Prosecutor's Office gave a Non-Prosecution decision regarding my mother's complaint. My lawyer also thought the Prosecutor's Office gave the correct decision; he was also saying there was no causal link between my mother's heart attack and my assault.
+I saw that our files with my mother were combined in the assault case, but the Prosecutor's Office gave a Non-Prosecution decision regarding my mother's complaint. They couldn't find a causal link between my mother's heart attack and my assault.
 
-Whereas, my mother's complaint was "verbal violence". How can 9 "F.ck off" insults not be insults while "Pervert" is accepted as insult? The Prosecutor's Office gave a Non-Prosecution decision to these swear insults which have camera recording and my lawyer didn't object either.
+Whereas, my mother's complaint was "verbal violence". How can 9 "F.ck off" insults not be insults while "Pervert" is accepted as insult? The Prosecutor's Office gave a Non-Prosecution decision to these profane insults which have camera recording.
 
-That's when I realized I was alone; whatever I did, I would only do it myself. Actually lawyers don't do much, don't follow details, my lawyer didn't even understand what was going on.
+That's when I realized I was alone; whatever I did, I would only do it myself. Anyway, lawyers don't follow details much.
 
 Therefore, I started to enter UYAP every day and check developments.
 
@@ -435,7 +443,7 @@ Also, I realized I could benefit from artificial intelligence. First, I started 
 
 The reason I hired a lawyer in June 2024 was to file lawsuits regarding the illegal structure, janitor's apartment and the hole on the terrace. Although more than a year passed, instead of those lawsuits, we had assault and insult lawsuits in our hands. As a result, the lawyer I hired would only deal with those criminal cases and related compensation cases.
 
-The essence of the matter is, if I don't deal with it myself, no one, including the Prosecutor's Office and my lawyer, had any intention of doing anything about all these main issues I have been dealing with for 10 years, which are the cause of insult and assault lawsuits. This was easily understood from the Prosecutor's Office giving a Non-Prosecution decision to my first complaint about the illegal structure. I wasn't using UYAP yet when the Non-Prosecution decision was notified to me. Therefore I asked my lawyer to object to the Non-Prosecution; he did, but it was rejected. Although I asked my lawyer many times, I still couldn't learn what was written in the rejection answer.
+The essence of the matter is, if I don't deal with it myself, no one, including the Prosecutor's Office and my lawyer, had any intention of doing anything about all these main issues I have been dealing with for 10 years, which are the cause of insult and assault lawsuits. This was easily understood from the Prosecutor's Office giving a Non-Prosecution decision to my first complaint about the illegal structure. I wasn't using UYAP yet when the Non-Prosecution decision was notified to me. Therefore I asked my lawyer to object to the Non-Prosecution; he did, but it was rejected. I don't know what was written in the rejection answer.
 
 Moreover, my lawyer whom I hired to help and file a lawsuit in these matters I have been dealing with on my own for 10 years was trying to dissuade me, saying "since you don't live there anymore, why do you bother, let it go, let them do whatever they do". As if I haven't lost my home, as if they haven't broken my jaw, insulted and threatened, as if my mother almost didn't die. So, if it were up to my lawyer and the judiciary, there was a simple insult of the kind seen in fights between primary school children and an isolated assault event of the kind seen in those fighting in traffic. They would close everything by abstracting it from its context like this.
 
@@ -483,7 +491,9 @@ Of course, I objected to this decision. In my objection petition, I explained th
 
 The court giving the BYU HAGB decision accepted my objection; but I guess it had to accept it anyway. The Prosecutor's Office also added a seen letter to the file. The insult file was distributed again, that is, assigned to another court.
 
-But the new court sent a prepayment warning to the other party in the same interim decision where it said it would switch to the general procedure with a hearing. That is, this was such a simple crime that let alone BYU HAGB, the case could be dropped by paying 13 thousand TL. Whereas, the method called prepayment is a method of reducing the workload of courts introduced to quickly close lawsuits filed regarding insults made from the Internet and social media. This "Pervert" blackmail had nothing to do with those kinds of insults. Such a decision did not do justice to the 15-minute camera recording and 18-page expert report. Of course, I will not attend the hearing of a court issuing prepayment; I will object when it drops the case with prepayment.
+But the new court sent a prepayment warning to the other party in the same interim decision where it said it would switch to the general procedure with a hearing. That is, this was such a simple crime that let alone BYU HAGB, the case could be dropped by paying 13 thousand TL. Whereas, the method called prepayment is a method of reducing the workload of courts introduced to quickly close lawsuits filed regarding insults made from the Internet and social media. This "Pervert" blackmail had nothing to do with those kinds of insults. Such a decision did not do justice to the 15-minute camera recording and 18-page expert report.
+
+Of course, I did not attend the hearing of a court issuing prepayment myself, my lawyer did, and the court [dropped the case with prepayment](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/Gerekceli_Karar.pdf). The defendant got away with the case through [unreal and contradictory statements](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/GercekDisiVeCeliskili%C4%B0fadeler.jpg). I made an [Appeal (İstinaf) application](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/HakaretDavasiDusmeKararinaItiraz.pdf) against this dropping decision.
 
 #### Janitor's apartment and other complaints
 
@@ -501,6 +511,8 @@ On October 30, I sent my second criminal complaint petition regarding the janito
 To this very carefully prepared complaint petition consisting of 13 pages, 11 evidences and 15 witnesses, the Prosecutor's Office Forgery and Fraud bureau gave a Non-Prosecution decision in 2-3 days. Actually, not much was written in the Non-Prosecution decision; obviously, the Prosecutor didn't even read the petition properly. In the decision, he copy-pasted my petition and said "legal dispute" at the end. All of these crimes, including sexual harassment, were legal disputes!
 
 Of course, I immediately objected at the Criminal Judgeship of Peace. I even sent complaint petitions to SGK, ASKİ and Land Registry Cadastre by conducting the investigations myself that the Prosecutor's Office should have done. In my objection petition, I also stated that although the quality of the apartment is reinforced concrete, [it has been registered](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasUsulsuzAnaTasinmazNiteligi.pdf) as masonry in the title deed to gain advantage.
+
+The Judgeship [rejected my objection](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciKYOKItiraz_Takipsizlik_Kararina_Itirazin_Reddi.pdf). But, as I said, I made separate complaints for those crimes, they are being investigated. So, it's not over yet.
 
 #### ASKİ's illegal drainage cover-up complaint
 
@@ -538,36 +550,44 @@ Upon these evasive answers, we are waiting for the result of the complaint I mad
 
 We are waiting for the result of my SGK complaint regarding employment of uninsured janitor.
 
-#### We Are Used to Cover-ups Now
-
-But considering other answers I received from state institutions until today, I am not very hopeful. We are used to cover-up and ignoring answers coming from state institutions now.
-
 #### Disclosure to press-media and journalists
 
 At the beginning of January 2026, I sent a message explaining a summary of all this crime chain, evidences we have and the current situation to press-media institutions and journalists.
 
 I opened the "Untouchables" Apartment web page for journalists.
 
-I opened an X (Twitter @kwpnch) account and sent this page to many journalists and news channels via social media.
+I opened an X (Twitter [@kwpnch](https://x.com/kwpnch)) account and sent this page to many journalists and news channels via social media.
 
-As of the end of January, no answer came from anyone; no one was even interested.
+As of March, no answer came from anyone; no one was even interested.
+
+#### Illegal and risky structure notices; the final move of the cover-up
+
+Contrary to previous "it's suitable for its project" (projesine uygundur) answers, on February 11, 2026, the Municipality gave a notice (tebligat) to the apartment, [stating that there is a 68m2 illegal structure](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiTebligati.pdf) and warning (ihtar) that it should be demolished within 1 month. In the report (zabitname), it also confessed that the building is not masonry (kargir), but reinforced concrete-carcass.
+
+The next day, the same Municipality [declared the apartment a risky structure](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/RiskliYapiTebligati.jpeg).
+
+The illegal structure will be demolished in mid-March and the evidence will be destroyed forever. The apartment will also be demolished within the following 2 months and all evidence will be destroyed forever.
+
+As I said before, these moves are only the last links of the cover-up attempt. For this reason, I reported the illegal structure and risky structure notices to the [Prosecutor's Office](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasBilirkisiTalep.pdf) and the [Criminal Judgeship of Peace (SCH)](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasCezaIkrar.pdf) looking at my illegal structure complaint, and to the [Prosecutor's Office](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/TapuUsulsuzluguTeyit.pdf) looking at the title deed irregularity. I requested urgent expert examination and injunction orders.
+
+#### We Are Used to Cover-ups Now
+
+But considering other answers I received from state institutions until today, I am not very hopeful. We are used to cover-up and ignoring answers coming from state institutions now.
 
 #### Analysis vs. Synthesis
 
 The judiciary is in an effort to give separate punishment to each by dividing everything into small parts and analyzing. Because of this approach that cannot synthesize, this entire crime chain is simplified, so the judiciary is left with simple insult and isolated assault lawsuits that can be closed with money payment. With this approach, from a 15-minute camera recording and 18-minute expert report full of insults, threats, intimidation, slander/blackmail, confessions and challenges to judiciary/justice, only a single word "Pervert" insult and lawsuit, which can be said in just 1 second, is extracted. Exactly like in insult lawsuits between people who met in traffic for the first time in their lives and fought. No one looks at the whole picture. **This is not called "divide and conquer", it is called "divide and simplify", simplify until there is nothing important enough to judge left in hand.**
 
-There is the first hearing of the Insult case on February 3. But, I have no intention of going to a court trying to drop the case with prepayment. Let them drop the case, I will object afterwards.
-
 "Pervert" is of course an insult at the same time. But, if this case, which is related to all other crimes and is part of the blackmail, is to be dropped with prepayment like a simple insult, this simple question must also be answered: Where is the case containing this entire crime chain where blackmail and the instigator are also tried? Investigations regarding those crimes and individuals are continuing. So, the court should have either waited for the result of those investigations or combined the cases.
 
 No one can convince me otherwise. Because, otherwise we resemble someone who can analyze but cannot synthesize, who sees the tree but misses the forest, who sees the virus scanning module but cannot see the security system it runs on.
 
-Analysis not combined with synthesis has no meaning. Without looking at the whole picture, you cannot understand the reasons for the crimes you try to punish by dividing and fragmentation and finally you try to drop the case with prepayment like this.
+Analysis not combined with synthesis has no meaning. Without looking at the whole picture, you cannot understand the reasons for the crimes you try to punish by dividing and fragmentation and finally you drop the case with prepayment like this.
 
 Of course, the civil servant approach might also be in question here. Civil servants try to guarantee themselves; they make everything simplest and guaranteed. Besides, a person acting by thinking opposite of this cannot be a civil servant; otherwise a crime machine turns out to be a relative of the former President of the Constitutional Court, they exile the man from here to there.
 
-So, the aim here is actually not to provide justice. It is not important that the state order is disrupted, that some people who think they are untouchable apply their own laws in the center of Ankara.
+So, it seems that actually no one takes justice into account. The state order is being disrupted, someone who thinks they are untouchable is applying their own laws in the heart of Ankara, it doesn't matter.
 
-I have always fought with civil servant and politician approaches. I am not going to step back now.
+I have never used civil servant and politician approaches. I'm not going to step back now.
 
 Fight for justice continues.

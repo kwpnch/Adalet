@@ -44,13 +44,13 @@ Yukarıdakiler daha başlangıçtı. Şimdi de yıllar sürecek bir hukuki müca
 
 Yeni ikamet adresime gittikten birkaç ay sonra iki dava açıldığını gördüm:
 
-- **Hakaret davası:** Aslında "Sapık" hakaretiyle şantaj amacı güden bu eylemi şikayet ettikten yaklaşık 8 ay sonra hakaret davası açıldı. Mahkeme bunu basit, münferit bir hakaret olarak gördüğü için tüm beyan dilekçelerime rağmen BYU HAGB karara bağladı. Tamamen lehime olmasına rağmen, [karara itiraz ettim](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/HakaretKararinaI%CC%87tiraz_TevhitTalebi.pdf). Mahkeme kabul etti ve dava dosyası başka bir mahkemeye verildi. Yeni mahkeme olayı daha da basitleştirerek ön ödemeyle kapatılabilecek bir suç vasfı olarak kabul edip davayı düşürmek üzere. Zaten, aynı şikayetimdeki kaçak yapı ihbarıma Savcılık KYOK vermişti.
+- **Hakaret davası:** Aslında "Sapık" hakaretiyle şantaj amacı güden bu eylemi şikayet ettikten yaklaşık 8 ay sonra hakaret davası açıldı. Mahkeme bunu basit, münferit bir hakaret olarak gördüğü için tüm beyan dilekçelerime rağmen BYU HAGB karara bağladı. Tamamen lehime olmasına rağmen, [karara itiraz ettim](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/HakaretKararinaI%CC%87tiraz_TevhitTalebi.pdf). Mahkeme kabul etti ve dava dosyası başka bir mahkemeye verildi. Yeni mahkeme olayı daha da basitleştirerek ön ödemeyle kapatılabilecek bir suç vasfı olarak kabul edip davayı düşürdü. İstinafa başvurdum. Zaten, aynı şikayetimdeki kaçak yapı ihbarıma Savcılık KYOK vermişti.
 
 - **Darp davası:** Sanıklar, kapıcı dairesindeki adamı iki defa yalancı şahit olarak kullandılar ve beni saldırgan olarak göstermeye çalıştılar. Birincisinde Nöbetçi Sulh Ceza Hakimliği reddetti. İkincisinde ise darp davasına bakan hakim yalancı şahidi dinledi. Ama zaten çenemi kırdıkları bu darp eylemini mahkeme hala münferit sıradan bir darpmış gibi görüyor; bu nedenle de yukarıdaki olaylarla hiçbir alakası yokmuş gibi bir dava devam ediyor.
 
 #### Suç zinciri şikayetlerim
 
-Hakaret ve darp davalarının, on yıllar süren bu suç zincirinden bağımsız, münferit olaylar gibi yargılanıyor olduğunu ve avukatımın da buna destek verdiğini görünce işin başa düştüğünü anladım. Aksi takdirde, trafikte tartışıp kavga eden insanlar arasındaki hakaret ve darp davalarından bir farkı kalmayacaktı.
+Hakaret ve darp davalarının, on yıllar süren bu suç zincirinden bağımsız, münferit olaylar gibi yargılanıyor olduğunu görünce işin başa düştüğünü anladım. Aksi takdirde, trafikte tartışıp kavga eden insanlar arasındaki hakaret ve darp davalarından bir farkı kalmayacaktı.
 
 Bu nedenle, tüm bu suç zincirini adli ve idari makamlara şikayet etmeye başladım:
 
@@ -64,7 +64,15 @@ Bu nedenle, tüm bu suç zincirini adli ve idari makamlara şikayet etmeye başl
     
     Bunun üzerine, Belediye ve diğer şüpheliler hakkında kaçak yapının örtbas edilmesiyle ilgili Savcılığa [yeni bir suç duyurusunda](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbas.pdf) bulundum. Savcılık Memur Suçları Bürosu, suçlanan Belediyeye tekrar bir yazı yazarak kaçak yapıyı sormuş. Belediye cevabında 2 defa "kaçak yapı" ifadesini kullanarak "kaçak yapının girişinin kapatıldığı ve yapacak birşey kalmadığı" şeklinde tekrar bir örtbas cevabı verdi. Buna itibar eden Savcılık Bürosu yeni şikayetimle ilgili de [KYOK kararı](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/%282%29_Takipsizlik_Karari.pdf) verdi.
     
-    Bu durum, 60 yıllık 100m2 betonarme kaçak yapıyı sanki bu şahıslar 60 yıldır kendi başlarına koruyorlarmış ve Belediyenin verdiği çelişkili örtbas cevapları sanki yokmuş gibi saçma bir sonuç doğurduğu için tabii ki [SCH'de itiraz ettim](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasKYOKItiraz.pdf). Sonucunu bekliyoruz.
+    Bu durum, 60 yıllık 100m2 betonarme kaçak yapıyı sanki bu şahıslar 60 yıldır kendi başlarına koruyorlarmış ve Belediyenin verdiği çelişkili örtbas cevapları sanki yokmuş gibi saçma bir sonuç doğurduğu için tabii ki [SCH'de itiraz ettim](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasKYOKItiraz.pdf).
+    
+    Şikayetlerimizin ve itirazımızın sonucunu beklerken, 11 Şubat 2026 tarihinde Belediye, önceki 3 "projeye uygundur" cevabının tersine, apartmana verdiği tebligatla [68m2 kaçak yapı mevcut olduğunu ve 1 ay içinde yıktırılmasını ihtar etti](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiTebligati.pdf). Yani, kaçak yapı 14 Mart 2026 tarihinde yıktırılarak tüm deliller ebediyen ortadan kaldırılacak.
+    
+    Bu arada, Belediyenin zabıtnamesindeki `4,30m × 15,85m = 68,15m2` alan hesabı mümkün değildir. Çünkü ön bahçe dikdörtgen değil, yamuktur. İmar ve Şehircilik işlerini emanet ettiğimiz ve santim hesabı yapması gereken Belediye, kaçak yapıyı ikrar ettiği belgede bile özensizliğini sürdürmüştür.
+    
+    Ertesi gün, 12 Şubat 2026 tarihinde de, Belediye [apartmanı riskli yapı ilan etti](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/RiskliYapiTebligati.jpeg). Yani, kaçak yapının yıktırılmasının ihtar edildiği son tarihte riski yapı kararı kesinleşecek ve izleyen en fazla 2-3 ay içinde de bina yıktırılarak tüm deliller ebediyen ortadan kaldırılacak.
+    
+    Görüldüğü üzere, Belediyenin bu organize ve senkronize hamleleri örtbas girişiminin yeni bir halkası sadece.
 
 - **Kapıcı dairesi:** Savcılığa, 11 delil ve 15 tanıktan oluşan çok ciddi suçları ihbar ettiğim [13 sayfalık bir şikayet dilekçesi](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciDairesi.pdf) gönderdim:
 
@@ -76,7 +84,9 @@ Bu nedenle, tüm bu suç zincirini adli ve idari makamlara şikayet etmeye başl
     
     Bu özenle hazırlanmış dilekçeme, Savcılık Sahtecilik ve Dolandırıcılık Bürosu sadece birkaç gün içinde [KYOK](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/%282%29_Takipsizlik_Karari.pdf) verdi. KYOK kararında aslında pek birşey yazmıyordu, çünkü 7 sayfalık karar yazısının 6.5 sayfası benim dilekçenin formatı bozuk şekilde kopyala-yapıştır haliydi. Karar metninin diğer kısımları pekçok hatayla doluydu ve en sonunda Savcılık Bürosu suç duyurusunda bulunduğum bütün bu konuların "hukuki ihtilaf" olduğunu iddia ediyordu. Yani, cinsel taciz olayları da dahil ihbar ettiğim herşey hukuki ihtilafmış!
     
-    Tabii ki, bu geçiştirme KYOK kararına [SCH'de itiraz ettim](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciDairesiKYOKItiraz.pdf). İtiraz etmeden önce de, aslında Savcılığın yapması gereken ASKİ'ye, TKGM'ne ve SGK'ya şikayetleri kendim yaptım. İtirazımın sonucunu bekliyoruz.
+    Tabii ki, bu geçiştirme KYOK kararına [SCH'de itiraz ettim](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciDairesiKYOKItiraz.pdf). İtiraz etmeden önce de, aslında Savcılığın yapması gereken ASKİ'ye, TKGM'ne ve SGK'ya şikayetleri kendim yaptım. Ama, [SCH itirazımı reddetti](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciKYOKItiraz_Takipsizlik_Kararina_Itirazin_Reddi.pdf).
+
+    Ama, bu red kararına AYM'de itiraz etmedim, çünkü yasa dışı drenaj, tapu usulsüzlüğü ve SGK dolandırıcılığı zaten ayrı olarak şikayet etmiştim; soruşturmalar devam ediyor.
 
 - **Yasa dışı drenaj:** Dairemin su basmasına neden olan terastaki yasa dışı drenaj sistemini, Ankara Büyükşehir Belediyesi ASKİ'ye CİMER üzerinden iki defa şikayet ettim. [Birincisine](https://github.com/kwpnch/Adalet/raw/main/YasaDisiDrenaj/ASKISikayet_1.pdf) Ankara'nın başka yerindeki bir apartmanın kanalizasyon sorunu hakkındaki alakasız bir cevap verdiler. Düzeltilmesi için yaptığım [ikinci başvuruya](https://github.com/kwpnch/Adalet/raw/main/YasaDisiDrenaj/ASKISikayet_2.pdf) da, terastaki delikle ilgili benim birinci kattaki dairenin tesisatında işlem gerektiği gibi saçma bir cevap aldım. Yani, bu defa da ASKİ terastaki deliği ve yasa dışı drenajı görmezden gelerek örtbas etmişti.
 
@@ -84,11 +94,11 @@ Bu nedenle, tüm bu suç zincirini adli ve idari makamlara şikayet etmeye başl
 
 - **Tapu usulsüzlüğü:** Aslında Betonarme olan apartmanın tapuya Kargir olarak kaydedilmiş olduğunu, ÇŞİD Bakanlığı Tapu ve Kadastro Genel Müdürlüğüne CİMER üzerinden iki defa şikayet ettim. [Çankaya Tapu Müdürlüğü verdiği cevapta](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/CIMER_CankayaTapu.pdf) Ankara Kadastro Müdürlüğüne yönlendirdi (böyle ciddi bir usulsüzlükle ilgili neden kendi aralarında yazışmadıklarını bilmiyorum). [Ankara Kadastro Müdürlüğü ise](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/CIMER_AnkaraKadastro.pdf), şikayetimde bahsettiğim usulsüzlük ve kamu zararını gözardı ederek, başvurum sanki sadece bir cins değişikliği talebiymiş gibi "ilgililerin beyanname ile başvurması gerektiği" cevabını verdi. Bu geçiştirme cevaplar üzerine, sorumlular hakkında [Savcılığa suç duyurusunda bulundum](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/TapuUsulsuzlugu.pdf). Sonucunu bekliyoruz.
 
-- **SGK dolandırıcılığı:** Kapıcı dairesindeki şahsın kiracı gibi gösterilmesi ile ilgili usülsüzlüğü [SGK'ya şikayet ettim](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/SGKSikayet.pdf). Sonucunu bekliyoruz.
+- **SGK dolandırıcılığı:** Kapıcı dairesindeki şahsın kiracı gibi gösterilmesi ile ilgili usülsüzlüğü [SGK'ya şikayet ettim](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/SGKSikayet.pdf). İnceleme-araştırma işlemleri sonunda düzenlenecek Denetim raporunu bekliyoruz.
 
 - **Koruma kararı talepleri:** Kaç defa koruma kararı talebinde bulunduğumu hatırlamıyorum bile. [İlk koruma kararı talebimiz reddedildi](https://github.com/kwpnch/Adalet/raw/main/Darp/KorumaTalebiReddedildi.pdf). Diğerlerine ne olduğunu veya olacağını bilmiyorum.
 
-- **Tedbir kararı talepleri:** Bu şikayetlerimden sonra, delilleri yok etmek için, daha 2 yıl önce yenilenen apartmanı kentsel dönüşüm bahanesiyle yıktırmaya çalıştılar. Kolonlardan [karot alındı](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/DepremTeknikInceleme.jpeg). Bu nedenle, Savcılık ve Mahkemelerden soruşturmalar tamamlanana kadar apartmanla ilgili [tedbir kararı talep ettim](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasSCHEkBeyan.pdf). İlk tedbir talebime Savcılık Memur Suçları Bürosu [KYOK](https://github.com/kwpnch/Adalet/raw/main/TedbirTalebi/%282%29_Takipsizlik_Karari.pdf) verdi, ama diğer şüphelilerle ilgili tefrik soruşturma dosyasına müzekkere ile talebimi gönderdi. Sonucunu bekliyoruz.
+- **Tedbir kararı talepleri:** Bu şikayetlerimden sonra, delilleri yok etmek için, daha 2 yıl önce yenilenen apartmanı kentsel dönüşüm bahanesiyle yıktırmaya çalıştılar. Kolonlardan [karot alındı](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/DepremTeknikInceleme.jpeg). Bu nedenle, Savcılık ve Mahkemelerden soruşturmalar tamamlanana kadar apartmanla ilgili [tedbir kararı talep ettim](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasSCHEkBeyan.pdf). İlk tedbir talebime Savcılık Memur Suçları Bürosu [KYOK](https://github.com/kwpnch/Adalet/raw/main/TedbirTalebi/%282%29_Takipsizlik_Karari.pdf) verdi, ama diğer şüphelilerle ilgili tefrik soruşturma dosyasına müzekkere ile talebimi gönderdi. Taleplerimin sonucunu beklerken [Belediye apartmanı riskli yapı ilan etti](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/RiskliYapiTebligati.jpeg).
 
 ### Kime Karşı Mücadele Ediyorum
 
@@ -277,11 +287,11 @@ Avukat tuttuktan sonra, Ankara'dan ayrıldım.
 
 #### Aralık 2024: Hakaret şantajı ve kaçak yapı şikayetleri
 
-Tuttuğum avukat 6 ay boyunca hiçbirşey yapmadı. Bu nedenle, biraz da acele ederek Aralık başında Ankara'ya döndüm. Acele ettim, çünkü "Sapık" şantajını şikayet etmek için süre dolmak üzereydi.
+Avukatım henüz davaları açmamıştı. Bu nedenle, biraz da acele ederek Aralık başında Ankara'ya döndüm. Acele ettim, çünkü "Sapık" şantajını şikayet etmek için süre dolmak üzereydi.
 
 Ankara'da ilk olarak, Savcılıktan telefonla tehdit şikayetimin KYOK kararını aldım.
 
-Sonra, aslında avukatımın şikayet etmesi gerekiyordu, ama bu konuda da hiçbirşey yapmadığı için, kendim Savcılığa gidip [14 Haziran'daki "Sapık" hakaret ve şantajını şikayet ettim](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/TehditHakaretSikayet.jpg). Savcı bu şahsın neden bana bu hakaretleri ettiğini sordu; kaçak yapıdan bahsettim. Bu nedenle, şikayetimi hem "Sapık" hakareti hem de kaçak yapı olarak aldılar. Yani, şikayetimle ilgili iki soruşturma yürütüldü. Nitekim, aylar sonra hakaret davası açıldı, ama kaçak yapıyla ilgili KYOK verildi, aşağıda tekrar değineceğim.
+Sonra, Savcılığa gidip [14 Haziran'daki "Sapık" hakaret ve şantajını şikayet ettim](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/TehditHakaretSikayet.jpg). Savcı bu şahsın neden bana bu hakaretleri ettiğini sordu; kaçak yapıdan bahsettim. Bu nedenle, şikayetimi hem "Sapık" hakareti hem de kaçak yapı olarak aldılar. Yani, şikayetimle ilgili iki soruşturma yürütüldü. Nitekim, aylar sonra hakaret davası açıldı, ama kaçak yapıyla ilgili KYOK verildi, aşağıda tekrar değineceğim.
 
 Ayrıca, 2 Aralık'ta CİMER üzerinden Çevre, Şehircilik ve İklim Değişikliği Bakanlığına kaçak yapıyla ilgili bir şikayet dilekçesi gönderdim. Onlar da Savcılık gibi Çankaya Belediyesine yazı yazmışlar ve Belediyeden gelen örtbas cevabına itibar ederek aylar sonra konuyu kapattılar.
 
@@ -401,9 +411,7 @@ Annem de geçen 3 aylık sürede hiç dışarı bile çıkamamıştı. Doktora g
 
 Bu sürede evi tamamen topladım, herşeyi karton kutulara koydum. Toplanmayı bitirdiğimde ertesi gün taşınabilecek durumdaydık.
 
-Tüm bunların nasıl bir psikoloji yarattığını bilemezsiniz.
-
-Bu nedenle, MR raporu çıktıktan ve ortodonti hocasıyla konuştuktan birkaç gün sonra, 15 Mart'ta, gece saat 3-4 civarı yazlığa götürebileceğim ve sığdırabileceğimi hesapladığım herşeyi arabaya doldurdum (haftalarca ölçüp biçip arabayı ne kadar doldurabileceğimin hayalini kurarak hazırlanmıştım, neyseki doğru hesaplamışım, çünkü hazırladığım herşeyi arabaya sığdırabildim). Saat 7 civarı arabayı tamamen doldurmuştum. Evi dikkatlice kapatıp annemle yazlığa doğru yola çıktık.
+MR raporu çıktıktan ve ortodonti hocasıyla konuştuktan birkaç gün sonra, 15 Mart'ta, gece saat 3-4 civarı yazlığa götürebileceğim ve sığdırabileceğimi hesapladığım herşeyi arabaya doldurdum (haftalarca ölçüp biçip arabayı ne kadar doldurabileceğimin hayalini kurarak hazırlanmıştım, neyseki doğru hesaplamışım, çünkü hazırladığım herşeyi arabaya sığdırabildim). Saat 7 civarı arabayı tamamen doldurmuştum. Evi dikkatlice kapatıp annemle yazlığa doğru yola çıktık.
 
 Öğleden sonra yazlığa varmıştık. İşte ondan sonra rahatlayabildim, çünkü artık aşağıdakilerin tehdidiyle yaşamıyordum. Örneğin, istediğim zaman dışarı çıkabiliyor ve alışveriş yapabiliyordum.
 
@@ -421,11 +429,11 @@ Darp davası da Ağustos başında açıldı.
 
 O vakte kadar UYAP kullanmıyordum; e-devletten davaları gördükten sonra UYAP'ı kullanmaya başladım.
 
-Gördüm ki, darp davasında benim ve annemin dosyalarımız birleştirilmişti, ama Savcılık annemin şikayetiyle ilgili KYOK kararı vermişti. Benim avukat da Savcılığın doğru karar verdiğini düşünüyordu; o da annemin kalp krizi ile benim darp edilmem arasında illiyet bağı olmadığını söylüyordu.
+Gördüm ki, darp davasında benim ve annemin dosyalarımız birleştirilmişti, ama Savcılık annemin şikayetiyle ilgili KYOK kararı vermişti. Annemin kalp krizi ile benim darp edilmem arasında illiyet bağı bulamamışlardı.
 
-Oysa, annemin şikayeti "sözel şiddet" idi. "Sapık" hakaret kabul edilirken nasıl olur da 9 adet "S.ktir git" hakaret olmaz? Savcılık kamera kaydı olan bu sinkaflı hakaretlere KYOK kararı vermişti ve benim avukat da itiraz etmemişti.
+Oysa, annemin şikayeti "sözel şiddet" idi. "Sapık" hakaret kabul edilirken nasıl olur da 9 adet "S.ktir git" hakaret olmaz? Savcılık kamera kaydı olan bu sinkaflı hakaretlere KYOK kararı vermişti.
 
-İşte o zaman tek başıma olduğumu anladım; ne yaparsam ancak kendim yapacaktım. Aslında avukatlar pek birşey yapmıyor, detayları takip etmiyor, benim avukatım ne olup bittiğini bile anlamamıştı. 
+İşte o zaman tek başıma olduğumu anladım; ne yaparsam ancak kendim yapacaktım. Zaten avukatlar pek detayları takip etmiyor. 
 
 Bu nedenle, UYAP'a hergün girip gelişmeleri kontrol etmeye başladım.
 
@@ -435,9 +443,9 @@ Ayrıca, yapay zekadan yararlanabileceğimi fark ettim. Önce, yargı süreçler
 
 2024 Haziran'ında avukat tutmamın sebebi, kaçak yapı, kapıcı dairesi ve terastaki delikle ilgili davalar açmasıydı. Aradan bir yıldan fazla zaman geçmiş olmasına rağmen, elimizde o davalar yerine, artık darp ve hakaret davaları vardı. Sonuçta, tuttuğum avukat sadece o ceza davaları ve ilgili tazminat davalarıyla ilgilenecekti.
 
-İşin özü, kendim uğraşmazsam, hakaret ve darp davalarının sebebi olan, 10 senedir uğraştığım tüm bu asıl konularla ilgili Savcılık ve avukatım dahil kimsenin hiçbirşey yapmaya niyeti yoktu. Zaten kaçak yapıyla ilgili ilk şikayetime Savcılığın KYOK vermesinden bu kolayca anlaşılıyordu. KYOK kararı bana tebliğ edildiğinde henüz UYAP kullanmıyordum. O nedenle avukatımdan KYOK'a itiraz etmesini istemiştim; etmiş, ama reddedilmiş. Avukatıma defalarca sormama rağmen hala red cevabında ne yazdığını öğrenemedim.
+İşin özü, kendim uğraşmazsam, hakaret ve darp davalarının sebebi olan, 10 senedir uğraştığım tüm bu asıl konularla ilgili Savcılık dahil kimsenin hiçbirşey yapmaya niyeti yoktu. Zaten kaçak yapıyla ilgili ilk şikayetime Savcılığın KYOK vermesinden bu kolayca anlaşılıyordu. KYOK kararı bana tebliğ edildiğinde henüz UYAP kullanmıyordum. O nedenle avukatımdan KYOK'a itiraz etmesini istemiştim; etmiş, ama reddedilmiş. Red cevabında ne yazdığını bilmiyorum.
 
-Üstelik, kendi başıma 10 senedir uğraştığım bu konularda yardımcı olsun ve dava açsın diye tuttuğum avukatım beni vazgeçirmeye çalışıyordu, "madem artık orada yaşamıyorsun, ne uğraşıyorsun, bırak naparlarsa yapsınlar" diyordu. Sanki ben evimi kaybetmemişim, sanki çenemi kırmamışlar, hakaret ve tehdit etmemişler, sanki annem neredeyse ölmüyormuş gibi. Yani, avukatıma ve yargıya kalsa ortada ilkokul çocukları arasındaki kavgalarda olduğu türden basit bir hakaret ve trafikte kavga edenlerde olduğu türden münferit bir darp olayı vardı. Herşeyi böyle bağlamından soyutlayarak kapatıp gideceklerdi.
+Üstelik, kendi başıma 10 senedir uğraştığım bu konularda yardımcı olsun ve dava açsın diye tuttuğum avukatım da beni vazgeçirmeye çalışıyordu, "madem artık orada yaşamıyorsun, ne uğraşıyorsun, bırak naparlarsa yapsınlar" diyordu. Sanki ben evimi kaybetmemişim, sanki çenemi kırmamışlar, hakaret ve tehdit etmemişler, sanki annem neredeyse ölmüyormuş gibi. Yani, yargıya kalsa ortada ilkokul çocukları arasındaki kavgalarda olduğu türden basit bir hakaret ve trafikte kavga edenlerde olduğu türden münferit bir darp olayı vardı. Herşeyi böyle bağlamından soyutlayarak kapatıp gideceklerdi.
 
 Nitekim, hakaret davasında öyle de oldu; ön ödeme ile dava kapatılmak üzere.Yargı bana yapılan hakareti (ki o basit bir hakaret değil; aslında bir sapık iftirası/şantajı), bana sormadan 13binTL'ye sanıklara sattı (9binTL ceza + 4binTL mahkeme masrafları). Yani, isteyen herkes gelip 13binTL'ye bana hakaret edebilir; hatta iftira atabilir veya şantaj kurabilir, çünkü nasıl olsa hakaret diye basitleştiriliyor.
 
@@ -483,7 +491,9 @@ Tabii ki bu karara itiraz ettim. İtiraz dilekçemde, bunun basit bir hakaret ol
 
 BYU HAGB kararı veren mahkeme itirazımı kabul etti; ama sanırım zaten kabul etmesi gerekiyormuş. Savcılık da dosyaya görüldü yazısı ekledi. Hakaret dosyası tekrar tevzi edildi, yani başka bir mahkemeye atandı.
 
-Ama yeni mahkeme, duruşmalı genel usule geçeceğini söylediği aynı ara kararda karşı tarafa ön ödeme ihtaratı gönderdi. Yani, bu o kadar basit bir suçmuş ki, bırakın BYU HAGB'ı 13binTL para ödeyerek dava düşürülebilirmiş. Oysa, ön ödeme denen yöntem, İnternet'ten ve sosyal medyadan yapılan hakaretlerle ilgili açılan davaları hızlıca kapatmak için çıkarılan mahkemelerin iş yükünü azaltma yöntemiymiş. Bu "Sapık" şantajının o tür hakaretlerle hiçbir alakası yoktu. Böyle bir karar, 15 dakikalık kamera kaydı ve 18 sayfalık bilirkişi raporuna hakkını vermiyordu. Ön ödeme çıkaran bir mahkemenin duruşmasına tabii ki katılmayacağım; davayı ön ödeme ile düşürdüğünde itiraz edeceğim.
+Ama yeni mahkeme, duruşmalı genel usule geçeceğini söylediği aynı ara kararda karşı tarafa ön ödeme ihtaratı gönderdi. Yani, bu o kadar basit bir suçmuş ki, bırakın BYU HAGB'ı 13binTL para ödeyerek dava düşürülebilirmiş. Oysa, ön ödeme denen yöntem, İnternet'ten ve sosyal medyadan yapılan hakaretlerle ilgili açılan davaları hızlıca kapatmak için çıkarılan mahkemelerin iş yükünü azaltma yöntemiymiş. Bu "Sapık" şantajının o tür hakaretlerle hiçbir alakası yoktu. Böyle bir karar, 15 dakikalık kamera kaydı ve 18 sayfalık bilirkişi raporuna hakkını vermiyordu.
+
+Ön ödeme çıkaran bir mahkemenin duruşmasına tabii ki kendim katılmadım, avukatım katıldı, ve mahkeme [davayı ön ödeme ile düşürdü](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/Gerekceli_Karar.pdf). Sanık [gerçek dışı ve çelişkili ifadelerle](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/GercekDisiVeCeliskili%C4%B0fadeler.jpg) davadan sıyırmış oldu. Bu düşme kararına karşı [İstinaf başvurusu yaptım](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/HakaretDavasiDusmeKararinaItiraz.pdf).
 
 #### Kapıcı dairesi ve diğer şikayetler
 
@@ -502,6 +512,8 @@ Gibi pekçok suç ihbarında bulunuyordum.
 13 sayfa, 11 delil ve 15 tanıktan oluşan, çok dikkatli hazırladığım bu şikayet dilekçeme Savcılık Sahtecilik ve Dolandırıcılık bürosu 2-3 günde KYOK verdi. KYOK kararında aslında pek birşey yazmıyordu; belli ki Savcı dilekçeyi doğru düzgün okumamış bile. Kararda benim dilekçeyi kopyala yapıştır yapmış ve sonuna da "hukuki ihtilaf" demişti. Bu suçların hepsi, cinsel taciz dahil hukuki ihtilafmış!
 
 Tabii ki hemen SCH'de itiraz ettim. Hatta Savcılığın yapması gereken soruşturmaları kendim yaparak; SGK'ya, ASKİ'ye ve Tapu Kadastro'ya şikayet dilekçeleri gönderdim. İtiraz dilekçemde, apartmanın niteliğinin betonarme olmasına rağmen avantaj sağlamak için tapuya kargir olarak [kaydedilmiş olduğunu da belirttim](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasUsulsuzAnaTasinmazNiteligi.pdf).
+
+[SCH itirazımı reddetti](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciKYOKItiraz_Takipsizlik_Kararina_Itirazin_Reddi.pdf). Ama, dediğim gibi, ben o suçları ayrı olarak şikayet ettim, soruşturuluyor. Yani, henüz bitmedi.
 
 #### ASKİ'nin yasa dışı drenajı örtbas şikayeti
 
@@ -539,36 +551,44 @@ Bu geçiştirme cevaplar üzerine, sorumlular hakkında Savcılığa yaptığım
 
 Sigortasız kapıcı çalıştırılmasıyla ilgili SGK şikayetimin sonucunu bekliyoruz.
 
-#### Örtbasa alıştık artık
-
-Ama bugüne kadar devlet kurumlarından aldığım diğer cevapları düşününce sonucunu beklediğim başvurulardan pek umutlu değilim. Devlet kurumlarından gelen örtbas ve gözardı cevaplarına alıştık artık.
-
 #### Basın-yayın ve gazetecilere ifşa
 
 Ocak 2026 başında tüm bu suç zincirinin bir özetini, elimizdeki delilleri ve mevcut durumu anlattığım bir mesajı basın-yayın kurumlarına ve gazetecilere gönderdim.
 
 Gazeteciler için "Dokunulmazlar" Apartmanı web sayfasını açtım.
 
-X (Twitter @kwpnch) hesabı açıp sosyal medya üzerinden pekçok gazeteci ve haber kanalına bu sayfayı gönderdim.
+X (Twitter [@kwpnch](https://x.com/kwpnch)) hesabı açıp sosyal medya üzerinden pekçok gazeteci ve haber kanalına bu sayfayı gönderdim.
 
-Ocak sonu itibariyle kimseden cevap gelmedi; ilgilenen bile olmadı.
+Mart itibariyle kimseden cevap gelmedi; ilgilenen bile olmadı.
+
+#### Kaçak ve Riskli yapı ihtarları örtbasın son halkaları
+
+Belediye, önceki "projesine uygudur" cevaplarının hilafına, 11 Şubat 2026 tarihinde, apartmana tebligat vererek 68m2 kaçak yapı mevcut olduğunu ve 1 ay içinde yıktırılması [ihtarında bulundu](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiTebligati.pdf). Zabıtnamede binanın kargir değil, betonarme-karkas olduğunu da ikrar etti.
+
+Ertesi gün de, aynı Belediye apartmanı [riskli yapı ilan etti](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/RiskliYapiTebligati.jpeg).
+
+Kaçak yapı Mart ortasında yıkılacak ve deliller ebediyen yok edilecek. Apartman da izleyen 2 ay içinde yıkılacak ve tüm deliller ebediyen yok edilecek.
+
+Daha önce dediğim gibi, bu hamleler örtbas girişiminin son halkaları sadece. Bu nedenle, kaçak yapı ve riskli yapı tebligatlarını kaçak yapı şikayetime bakan [Savcılığa](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasBilirkisiTalep.pdf) ve [SCH'ne](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasCezaIkrar.pdf), ve tapu usulsüzlüğüne bakan [Savcılığa](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/TapuUsulsuzluguTeyit.pdf) ihbar ettim. İvedi bilirkişi incelemesi ve tedbir kararları talep ettim.
+
+#### Örtbasa alıştık artık
+
+Ama bugüne kadar devlet kurumlarından aldığım diğer cevapları düşününce sonucunu beklediğim başvurulardan pek umutlu değilim. Devlet kurumlarından gelen örtbas ve gözardı cevaplarına alıştık artık.
 
 #### Analiz vs. Sentez
 
 Yargı herşeyi küçük parçalara bölüp analiz yaparak, her birine ayrı ceza verme çabası içinde. Sentez yapamayan bu yaklaşım nedeniyle, tüm bu suç zinciri basitleştiriliyor, böylece yargının elinde para ödemesiyle kapatılabilecek kadar basit hakaret ve münferit darp davaları kalıyor. Bu yaklaşımla, içeriği hakaret, tehdit, gözdağı, iftira/şantaj, itiraflar  ve yargıya/adalete meydan okumalarla dolu olan, 15 dakikalık kamera kaydı ve 18 dakikalık bilirkişi raporundan, sadece 1 saniyede söylenebilen, tek kelime "Sapık" hakareti ve davası çıkarılıyor. Aynen, hayatlarında ilk defa trafikte karşılaşıp kavga etmiş insanlar arasındaki hakaret davalarında olduğu gibi. Resmin bütününe bakan yok. **Buna, "böl ve yönet" (divide and conquer) denmez, "böl ve basitleştir" (divide and simplify) denir, hem de elinde yargılamaya değecek kadar önemli hiçbir şey kalmayana kadar basitleştir.**
 
-3 Şubat'ta Hakaret davasının ilk duruşması var. Ama, davayı ön ödeme ile düşürmeye çalışan bir mahkemeye gitmeye niyetim yok. Buyursunlar davayı düşürsünler, ben arkasından itiraz ederim.
-
 "Sapık" tabii ki aynı zamanda bir hakarettir. Ama, tüm diğer suçlarla alakalı olan ve şantajın parçası olan bu dava, eğer basit bir hakaret gibi ön ödemeyle düşürülecekse, şu basit soruya da cevap verilmesi gerekir: Şantajın ve azmettiricinin de yargılandığı tüm bu suç zincirini içeren dava nerede? O suçlar ve şahıslarla ilgili soruşturmalar devam ediyor. Yani, mahkeme ya o soruşturmaların sonucunu beklemeliydi ya da davaları birleştirmeliydi.
 
 Kimse beni aksine ikna edemez. Çünkü, aksi halde analiz yapabilen ama sentez yapamayan, ağacı gören ama ormanı gözden kaçıran, virüs tarama modülünü gören ama üzerinde çalıştığı güvenlik sistemini göremeyen birisine benzeriz.
 
-Sentezle birleştirilmeyen analizin anlamı olmaz. Resmin bütününe bakmadan, bölüp parçalayarak cezalandırmaya çalıştığın suçların sebeplerini anlayamazsın ve sonunda böyle ön ödeme ile davayı düşürmeye çalışırsın.
+Sentezle birleştirilmeyen analizin anlamı olmaz. Resmin bütününe bakmadan, bölüp parçalayarak cezalandırmaya çalıştığın suçların sebeplerini anlayamazsın ve sonunda böyle ön ödeme ile davayı düşürürsün.
 
 Tabii burada devlet memuru yaklaşımı da söz konusu olabilir. Devlet memurları kendilerini garantiye almaya çalışırlar; herşeyi en basit ve garantili hale getirirler. Zaten bunun aksini düşünerek haraket eden kişi devlet memuru olamaz; yoksa suç makinesi birisi AYM eski başkanının yakını çıkar, adamı oradan oraya sürerler.
 
-Yani, buradaki amaç, aslında adaleti sağlamak değil. Devlet düzeni bozuluyormuş, dokunulmaz olduğunu düşünen birileri Ankara'nın göbeğinde kendi kanunlarını uyguluyormuş, önemli değil.
+Yani, görünen o ki, aslında adaleti kaale alan yok. Devlet düzeni bozuluyormuş, dokunulmaz olduğunu düşünen birileri Ankara'nın göbeğinde kendi kanunlarını uyguluyormuş, önemli değil.
 
-Ben her zaman devlet memuru ve politikacı yaklaşımlarıyla kavga ettim. Şimdi geri adım atacak değilim.
+Ben hiçbir zaman devlet memuru ve politikacı yaklaşımları kullanmadım. Şimdi geri adım atacak değilim.
 
 Adalet savaşı devam ediyor.

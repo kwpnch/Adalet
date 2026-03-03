@@ -5,7 +5,7 @@ The true story of one person's ten-year struggle for rights against corruption, 
 > **Attention Press Members:**
 > This dossier documents organized lawlessness continuing for over 10 years in an apartment building in Ankara/Çankaya, the negligence of public institutions (especially the Municipality and Prosecutor's Office), and the physical/legal violence suffered by a citizen seeking justice. The allegations in the dossier are supported by camera recordings, expert reports, official institution responses, hospital reports, and other evidence.
 
-> Despite this 60-year chain of crimes taking place before everyone's eyes, despite all complaints, continuing investigations and lawsuits, and despite being personally reported to multiple journalists, as of January 2026, it has not been reported anywhere.
+> Despite this 60-year chain of crimes taking place before everyone's eyes, despite all complaints, continuing investigations and lawsuits, and despite being personally reported to multiple journalists, as of March 2026, it has not been reported anywhere.
 
 ## 1. EXECUTIVE SUMMARY
 
@@ -13,7 +13,7 @@ In Çankaya, the most central district of Ankara (only 1.3 km from the Courthous
 
 The whistleblower, the only flat owner objecting to these unlawful acts, has been subjected to systematic mobbing, threats ("I will haunt you", "I'll come up and f... your brains out"), blackmail ("Pervert" slander, "You say prostitution, it's very dangerous, it will backfire on you, you have a lot to learn"), and finally a severe physical attack resulting in a **fractured jawbone**.
 
-The gravity of the incident lies not only in the crimes committed but in the **systematic cover-up of these crimes by public institutions**. Çankaya Municipality's misleading statements protecting the illegal structure, ASKİ ignoring the illegal drainage, the Prosecutor's Office issuing non-prosecution decisions (KYOK) citing "Legal Dispute" without examining evidence, and courts trying to close heavy penal incidents with simple fines (Pre-payment), point to the existence of an "Untouchable" structure.
+The gravity of the incident lies not only in the crimes committed but in the **systematic cover-up of these crimes by public institutions**. Çankaya Municipality's misleading statements protecting the illegal structure, ASKİ ignoring the illegal drainage, the Prosecutor's Office issuing non-prosecution decisions (KYOK) citing "Legal Dispute" without examining evidence, and courts closing heavy penal incidents with simple fines (Pre-payment), point to the existence of an "Untouchable" structure.
 
 ## 2. ACTORS OF THE INCIDENT AND NETWORK OF INFLUENCE
 
@@ -27,8 +27,8 @@ The gravity of the incident lies not only in the crimes committed but in the **s
 
 ### A. Zoning and Urbanization Crimes (Allegation of Municipality Cooperation)
 *   **100m² Illegal Commercial Space:** A 100-square-meter reinforced concrete illegal structure under the front garden of the apartment, not in the project but existing even during the licensing process 60 years ago (suspects openly admit this), was used as a printing workshop for years. The illegal construction fine issued by municipal teams was cancelled using influence.
-*   **Misconduct in Office and Cover-up:** In response to complaints made to Çankaya Municipality, municipal officials provided misleading reports stating "Since the door of the illegal structure is closed, it has become suitable for the architectural project" (despite containing statements openly admitting the illegal structure), ensuring the closure of Prosecutor's Office investigations.
-*   **Title Deed Irregularity:** Although the building is reinforced concrete (column-beam system), it was registered as "Masonry" in the land registry, providing advantages for 60 years.
+*   **Misconduct in Office and Cover-up:** In response to complaints made to Çankaya Municipality, municipal officials provided misleading reports stating "Since the door of the illegal structure is closed, it has become suitable for the architectural project" (despite containing statements openly admitting the illegal structure), ensuring the closure of Prosecutor's Office investigations. In the past 14 months, after the Municipality gave 3 "suitable for the project" answers to judicial and administrative authorities, in a notification given to the apartment on February 11, 2026, it warned that there is a 68m² illegal structure and that it should be demolished within 1 month. The next day, on February 12, 2026, it also declared the apartment a risky structure.
+*   **Title Deed Irregularity:** Although the building is reinforced concrete (column-beam system), it was registered as "Masonry" in the land registry, providing advantages for 60 years and hiding the illegal structure from inspections.
 
 ### B. Environmental and Public Health Crimes (Allegation of ASKİ Cooperation)
 *   **Illegal Drainage:** The terrace floor owner Architect opened a hole connecting the terrace rainwater illegally to the building's sewage drain. This caused sewage floods in intermediate floor flats (the whistleblower's house is on the first floor) during every heavy rainfall.
@@ -37,7 +37,7 @@ The gravity of the incident lies not only in the crimes committed but in the **s
 ### C. Sexual Harassment and Public Order Crimes
 *   **Concierge Apartment:** Regarding the individual living in the apartment's concierge flat, there are allegations known by residents and neighbors of **molestation of young women**, **harassment of trans individuals**, and **prostitution**.
 *   **Police Raids:** Police raids on the apartment in past years and plainclothes police investigations regarding "foreign national women" in the concierge apartment strengthen these allegations.
-*   **Electricity Theft:** There is a sealed electricity meter by Enerjisa and fines for illegal usage.
+*   **Electricity Theft:** Electricity meter was sealed by Enerjisa and fines for illegal usage.
 
 ### D. Fake Lease Agreement and Social Security Fraud
 *   **Employment of Uninsured De Facto Concierge:** The individual in the concierge apartment worked as a concierge, collected garbage, and cleaned the common areas of the apartment for years, but was kept out of SGK audits by having a lease agreement signed.
@@ -55,7 +55,7 @@ The gravity of the incident lies not only in the crimes committed but in the **s
 The legal struggle reveals the blockage in the judiciary and the policy of "trivialization":
 
 1.  **Assault Case:** Despite severe injury (bone fracture), the process moves slowly, and the attackers are tried without arrest. The instigator suspect who made threats and challenged the judiciary was not included in the case. The individual in the concierge apartment is used as a false witness.
-2.  **Insult/"Pervert" Blackmail Case:** The "Pervert" slander and insults concocted by the instigator, manager, and his son to intimidate the whistleblower are attempted to be closed with **Pre-payment (Fine)** by the court, considering them as isolated "simple insults". However, this action is an organized blackmail aiming to hide the crime chain and intending to have cameras removed to prevent obtaining evidence of their planned assault.
+2.  **Insult/"Pervert" Blackmail Case:** The "Pervert" slander and insults concocted by the instigator, manager, and his son to intimidate the whistleblower are closed with **Pre-payment (Fine)** by the court, considering them as isolated "simple insults". However, this action is an organized blackmail aiming to hide the crime chain and intending to have cameras removed to prevent obtaining evidence of their planned assault.
 3.  **Civil Servant Crimes (Non-Prosecution):** Complaints of "Misconduct in Office" and "Covering up Crime" against Çankaya Municipality officials were closed (Non-Prosecution) by the Prosecutor's Office Civil Servant Crimes Bureau relying on the cover-up response of the accused Municipality.
 4.  **General Criminal Complaint (Non-Prosecution):** The comprehensive criminal complaint (Organized crime, sexual harassment, fraud, etc.) submitted by the whistleblower with 13 pages, 11 pieces of evidence, and 15 witnesses was rejected by the prosecutor's office as "Legal Dispute" without reading it.
 5.  **Analysis vs. Synthesis:** The judiciary tries to analyze everything by breaking it down into small pieces and punishing each individually. Due to this lack of synthesis, this entire chain of crimes is oversimplified, leaving the court with only trivial insult cases and isolated assault incidents that can be closed with a monetary fine. With this approach, a 15-minute camera recording and an 18-page expert report full of insults, threats, intimidation, blackmail/slander, confessions, and challenges to justice are reduced to a single-word "Pervert" insult case that takes only one second to utter. Just like insult cases between people who meet for the first time in traffic and fight. No one looks at the big picture. **This is not "divide and conquer"; it is "divide and simplify," until nothing significant enough to judge remains.**
@@ -71,17 +71,27 @@ The legal struggle reveals the blockage in the judiciary and the policy of "triv
 | **2024 May** | Harassment of trans individual and whistleblower's warning letters. | Warning letters |
 | **2024 June 14** | **Insults and Threats:** Attacks containing insults and threats by the Instigator, manager, and his son. | **15 min Camera Recording** and Expert Report |
 | **2024 December 24** | **Physical Attack:** Fracture of the jawbone and his mother's surgery. | **Camera Recording**, Expert Report, Forensic Reports |
+| **2025 January** | Municipality's response to the Prosecutor's Office that "illegal construction is suitable for the project". | Prosecutor's Office Non-Prosecution decision |
+| **2025 February** | Municipality's response to the Ministry of Environment, Urbanization and Climate Change that "we could not enter the illegal structure, there is no action to be taken". | CİMER application to the Ministry |
+| **2025 July** | "Pervert" (Sapık) insult case opened. | 15 min Camera Recording **Expert Report**, Witness |
+| **2025 August** | Assault case opened. | **Camera Recording** Expert Report, Forensic Reports, Witness |
 | **2025 September** | Whistleblower starting legal struggle via UYAP. | Prosecutor's Office and Court petitions |
 | **2025 October** | Prosecutor's Office issuing Non-Prosecution decision regarding Çankaya Municipality. | Non-Prosecution decision |
 | **2025 November** | Prosecutor's Office issuing serial Non-Prosecution decisions for the petition containing sexual harassment. | Non-Prosecution decision |
 |  | Attempt to have the apartment demolished by suspects to destroy evidence. | Core sampling from columns and WhatsApp messages |
-| **2025 December** | Reporting the uninsured concierge to SGK. | Testimony of residents and management's bank account |
+| **2025 December** | Objection to the Non-Prosecution decision given by the Prosecutor's Office for the petition containing sexual harassment at the Criminal Court of Peace. | Objection petition |
+| | Reporting the uninsured concierge to SGK. | Testimony of residents and management's bank account |
 | | Reporting title deed irregularity to Land Registry Directorates. | WebTapu online verifiable title deed record, photos of the building's columns and beams (the apartment itself), manager's confession |
 | | Complaint to Prosecutor's Office regarding ASKİ's attempt to cover up illegal drainage. | Camera and audio recordings, collection receipt |
 | | Non-Prosecution decision given to repeated protection order requests. | Non-Prosecution decision |
 | | Non-Prosecution decision given to Injunction requests. | Non-Prosecution decision |
 | **2026 January** | Complaint to the Prosecutor's Office regarding title deed irregularity. | Evasive answers from Land Registry and Cadastre Directorates |
 |  | Open call to the media. | This dossier |
+| **2026 February** | Çankaya Municipality 68m² illegal structure and 1-month demolition warning. | Illegal structure report and timed warning |
+| | Çankaya Municipality declaring the apartment as a risky structure. | Risky structure notification |
+| | Reporting the Municipality's illegal and risky structure notifications to the Prosecutor's Office and Criminal Court of Peace overseeing the cover-up investigations, and requests for urgent expert examination. | Prosecutor's Office and Court petitions |
+| | Dismissal of the insult case with prepayment and appeal to the Regional Court of Justice. | Justified decision and appeal application |
+| | Rejection of the objection to the Non-Prosecution decision given by the Prosecutor's Office for the petition containing sexual harassment at the Criminal Court of Peace. | Criminal Court of Peace Rejection decision |
 
 ## 6. NOTES FOR JOURNALISTS AND QUESTION SET
 
@@ -121,6 +131,9 @@ Redacted documents.
 - [Threat and Insult Complaint](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/TehditHakaretSikayet.jpg)
 - [Petition Regarding Instigator, Holistic Approach and Trial with Hearing Requests](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/EkBeyanDilekcesi.pdf)
 - [Petition for Objection to Insult Decision and Case Consolidation](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/HakaretKararinaI%CC%87tiraz_TevhitTalebi.pdf)
+- [Justified Decision for Dismissal](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/Gerekceli_Karar.pdf)
+- [Appeal Application Petition Against Dismissal Decision](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/HakaretDavasiDusmeKararinaItiraz.pdf)
+- [Defendant's Unreal and Contradictory Statements](https://github.com/kwpnch/Adalet/raw/main/SantajHakaret/GercekDisiVeCeliskili%C4%B0fadeler.jpg)
 
 ### C. Illegal Construction and Zoning Crimes
 > "Cover-up" complaints about the 100m² reinforced concrete illegal structure and the municipality.
@@ -131,11 +144,15 @@ Redacted documents.
 - [Non-Prosecution Decision Regarding Municipality](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/%282%29_Takipsizlik_Karari.pdf)
 - [Objection Petition to Municipality Non-Prosecution Decision](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasKYOKItiraz.pdf)
 - [Notification of High-Level Influence Use](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasKYOKItirazEkBeyan.pdf)
+- [Expert Request Petition Notifying the Municipality's Illegal Structure Confession and Risky Structure Declaration](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasCezaIkrar.pdf)
+- [Expert Request Petition Presenting the Illegal Structure Confession, Risky Structure Declaration and New Evidence](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasBilirkisiTalep.pdf)
 - [Notification of Attempt to Destroy Evidence by Demolishing Apartment and Title Deed Irregularity](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasSorusturmaGenisletme.pdf)
 - [Notification of Irregular Main Property Characteristic (Reinforced Concrete vs. Masonry)](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasUsulsuzAnaTasinmazNiteligi.pdf)
 - [Injunction Request](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiOrtbasSCHEkBeyan.pdf)
 - [Apartment Meeting Invitation (Illegal Construction Confession)](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/Apt%20Toplanti%20Daveti.jpeg)
 - [Earthquake Technical Inspection to Destroy Evidence by Demolishing Apartment](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/DepremTeknikInceleme.jpeg)
+- [Illegal Construction Notification](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/KacakYapiTebligati.pdf)
+- [Risky Structure Notification](https://github.com/kwpnch/Adalet/raw/main/KacakYapi/RiskliYapiTebligati.jpeg)
 
 ### D. Concierge Apartment, Fraud and Sexual Harassment Allegations
 > Crimes related to the concierge apartment, harassment incidents and SGK irregularity.
@@ -144,6 +161,7 @@ Redacted documents.
 - [Complaint Petition](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciDairesi.pdf)
 - [Non-Prosecution Decision](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/%282%29_Takipsizlik_Karari.pdf)
 - [Objection Petition to Non-Prosecution Decision](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciDairesiKYOKItiraz.pdf)
+- [Rejection of the Objection to Non-Prosecution Decision by Criminal Court of Peace](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/KapiciKYOKItiraz_Takipsizlik_Kararina_Itirazin_Reddi.pdf)
 - [SGK Complaint About Uninsured Concierge](https://github.com/kwpnch/Adalet/raw/main/KapiciDairesi/SGKSikayet.pdf)
 
 ### E. Illegal Drainage and Floods
@@ -164,7 +182,8 @@ Redacted documents.
 - [Photographs of Columns and Beams in Building (Reinforced Concrete Apartment)](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/BAptKolonVeKirisleri.pdf)
 - [Ankara Cadastre Directorate's Response to CİMER Application](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/CIMER_AnkaraKadastro.pdf)
 - [Çankaya Title Deed Directorate's Response to CİMER Application](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/CIMER_CankayaTapu.pdf)
-- [Petition regarding Title Deed Irregularity](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/KacakYapiOrtbasUsulsuzAnaTasinmazNiteligi.pdf)
+- [Petition Notifying the Municipality's Reinforced-Concrete Structure Confession](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/TapuUsulsuzluguTeyit.pdf)
+- [Statement Petition for Title Deed Irregularity](https://github.com/kwpnch/Adalet/raw/main/TapuUsulsuzlugu/KacakYapiOrtbasUsulsuzAnaTasinmazNiteligi.pdf)
 
 ### G. Injunction Requests
 > Injunction requests against demolition threat to destroy evidence.
