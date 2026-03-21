@@ -529,7 +529,7 @@ Darp davasının mahkemesi hakaret davasıyla birleştirme taleplerimi ve [annem
 
 Mahkeme kamera kaydının bilirkişi raporunun hazırlanmasını istemişti. Ocak başında [bilirkişi raporu](https://github.com/kwpnch/Adalet/raw/main/Darp/BilirkisiRaporu_evrak_13372356475.pdf) yapıldı.
 
-Annem, 13 Mart 2026'da buradaki bir mahkemede tanıklık yapacak.
+Annem, 13 Mart 2026'da buradaki bir mahkemede [tanıklık yaptı](https://github.com/kwpnch/Adalet/raw/main/Darp/AnnemTanikIfade_evrak_13728042232.pdf).
 
 #### Tedbir kararı talepleri
 

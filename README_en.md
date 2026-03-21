@@ -92,6 +92,7 @@ The legal struggle reveals the blockage in the judiciary and the policy of "triv
 | | Reporting the Municipality's illegal and risky structure notifications to the Prosecutor's Office and Criminal Court of Peace overseeing the cover-up investigations, and requests for urgent expert examination. | Prosecutor's Office and Court petitions |
 | | Dismissal of the insult case with prepayment and appeal to the Regional Court of Justice. | Justified decision and appeal application |
 | | Rejection of the objection to the Non-Prosecution decision given by the Prosecutor's Office for the petition containing sexual harassment at the Criminal Court of Peace. | Criminal Court of Peace Rejection decision |
+| **2026 Mart** | My mother's witness testimony. | Hearing minutes |
 
 ## 6. NOTES FOR JOURNALISTS AND QUESTION SET
 
@@ -123,6 +124,7 @@ Redacted documents.
 - [Complaint Petition About the Instigator](https://github.com/kwpnch/Adalet/raw/main/Darp/AzmettiriciTS.pdf)
 - [Petition Regarding Adding the Instigator to the Case, Case Consolidation and CBS Investigation Requests](https://github.com/kwpnch/Adalet/raw/main/Darp/AzmettiriciTevhitCBSSorusturmaTalepleri.pdf)
 - [Decision Rejecting Protection Request](https://github.com/kwpnch/Adalet/raw/main/Darp/KorumaTalebiReddedildi.pdf)
+- [My Mother's Witness Testimony](https://github.com/kwpnch/Adalet/raw/main/Darp/AnnemTanikIfade_evrak_13728042232.pdf)
 
 ### B. Blackmail and Insult
 > Documents related to insults, threats and "Pervert" slander/blackmail on June 14, 2024.
